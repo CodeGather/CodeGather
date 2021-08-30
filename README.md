@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/CodeGather">
   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=CodeGather&show_icons=true&count_private=true&theme=cobalt" />
-  </a><a href="https://github.com/anuraghazra/github-readme-stats">
+  </a><a href="https://github.com/CodeGather">
     <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeGather&layout=compact&theme=cobalt" />
   </a> 
 </div>
