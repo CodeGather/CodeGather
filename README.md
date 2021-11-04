@@ -2,7 +2,7 @@
   <a href="https://github.com/CodeGather">
   <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=CodeGather&show_icons=true&count_private=true&theme=cobalt" />
   </a><a href="https://github.com/CodeGather">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeGather&layout=compact&theme=cobalt&hide=xslt&card_width=360" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeGather&layout=compact&theme=cobalt&hide=xslt&card_height=160" />
   </a> 
 </div>
 <br/>
