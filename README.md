@@ -14,6 +14,6 @@
     <img align="center" height="100px" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGather&repo=alarm_calendar&theme=cobalt" />
   </a>
   <a href="https://github.com/CodeGather/record_movie">
-    <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGather&repo=record_movie&theme=cobalt" />
+    <img align="center" height="100px" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGather&repo=record_movie&theme=cobalt" />
   </a>
 </div>
