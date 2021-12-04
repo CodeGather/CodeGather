@@ -6,7 +6,7 @@
   </a> 
 </div>
 <br/>
-<div align="center">
+<div align="center" class="d-flex" style="display:fiex;align-items: stretch;">
   <a href="https://github.com/CodeGather/flutter_ali_auth">
     <img align="center" width="28%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGather&repo=flutter_ali_auth&theme=cobalt" />
   </a>
