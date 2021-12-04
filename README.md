@@ -8,12 +8,12 @@
 <br/>
 <div align="center" class="d-flex" style="display:fiex;align-items: stretch;">
   <a href="https://github.com/CodeGather/flutter_ali_auth">
-    <img align="center" width="28%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGather&repo=flutter_ali_auth&theme=cobalt" />
+    <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGather&repo=flutter_ali_auth&theme=cobalt" />
   </a>
   <a href="https://github.com/CodeGather/alarm_calendar">
-    <img align="center" height="100px" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGather&repo=alarm_calendar&theme=cobalt" />
+    <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGather&repo=alarm_calendar&theme=cobalt" />
   </a>
   <a href="https://github.com/CodeGather/record_movie">
-    <img align="center" height="100px" width="36%" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGather&repo=record_movie&theme=cobalt" />
+    <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=CodeGather&repo=record_movie&theme=cobalt" />
   </a>
 </div>
